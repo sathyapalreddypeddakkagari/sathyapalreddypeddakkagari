@@ -1,6 +1,6 @@
 # Hi, I'm Sathyapal Reddy Peddakkagari 👋
 📍 Fairfax, VA (Open to Relocate) | 📧 sathyapalpeddakkagari@gmail.com | 📞 +1 (571) 337-0184  
-🔗 LinkedIn: <YOUR_LINKEDIN_URL> | 🔗 GitHub: <YOUR_GITHUB_URL> | 🌐 Portfolio: <YOUR_PORTFOLIO_URL>
+🔗 LinkedIn: <[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sathyapalreddy-peddakkagari-14789b1a5/)> | 🔗 GitHub: <[YOUR_GITHUB_URL](https://github.com/sathyapalreddypeddakkagari)> | 🌐 Portfolio: <YOUR_PORTFOLIO_URL>
 
 ## About Me
 Associate Data Engineer with hands-on experience designing and optimizing ETL/ELT pipelines using **Python, SQL, AWS (Lambda, Step Functions), and PostgreSQL**.  
@@ -24,7 +24,7 @@ Experienced in **migrating on-prem databases to AWS RDS Multi-AZ**, improving av
 - Built and scaled real-time data processing pipelines using **AWS Lambda + Scala**, improving query throughput by **200%** for user acquisition tracking.
 - Led migration of on-prem databases to **AWS RDS Multi-AZ**, using system metrics + data modeling to improve performance and high availability.
 - Tuned SQL Server and warehouse performance via indexing and query restructuring, reducing API latency by **40%**.
-- Automated infrastructure deployment with **AWS Step Functions + CloudFormation**, using automation scripts in an Agile environment; added **A/B experiment frameworks** to validate data integrity.
+- Automated infrastructure deployment with **AWS Step Functions & CloudFormation**, using automation scripts in an Agile environment; added **A/B experiment frameworks** to validate data integrity.
 
 ---
 
@@ -67,4 +67,4 @@ Coursework: DSA, Digital Signal & Image Processing, DBMS, Computer Architecture,
 
 ## Contact
 📧 Email: sathyapalpeddakkagari@gmail.com  
-🔗 LinkedIn: <YOUR_LINKEDIN_URL>
+🔗 LinkedIn: <[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sathyapalreddy-peddakkagari-14789b1a5/)>
