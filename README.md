@@ -1,6 +1,6 @@
 # Hi, I'm Sathyapal Reddy Peddakkagari 👋
 📍 Fairfax, VA (Open to Relocate) | 📧 sathyapalpeddakkagari@gmail.com | 📞 +1 (571) 337-0184  
-🔗 LinkedIn: <[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sathyapalreddy-peddakkagari-14789b1a5/)> | 🔗 GitHub: <[YOUR_GITHUB_URL](https://github.com/sathyapalreddypeddakkagari)> | 🌐 Portfolio: <YOUR_PORTFOLIO_URL>
+🔗 <[LinkedIn](https://www.linkedin.com/in/sathyapalreddy-peddakkagari-14789b1a5/)> | 🔗<[GitHub](https://github.com/sathyapalreddypeddakkagari)> | 🌐 [Portfolio](https://github.com/sathyapalreddypeddakkagari)
 
 ## About Me
 Associate Data Engineer with hands-on experience designing and optimizing ETL/ELT pipelines using **Python, SQL, AWS (Lambda, Step Functions), and PostgreSQL**.  
@@ -67,4 +67,4 @@ Coursework: DSA, Digital Signal & Image Processing, DBMS, Computer Architecture,
 
 ## Contact
 📧 Email: sathyapalpeddakkagari@gmail.com  
-🔗 LinkedIn: <[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sathyapalreddy-peddakkagari-14789b1a5/)>
+🔗 <[LinkedIn](https://www.linkedin.com/in/sathyapalreddy-peddakkagari-14789b1a5/)>
