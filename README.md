@@ -9,13 +9,15 @@ Experienced in **migrating on-prem databases to AWS RDS Multi-AZ**, improving av
 ---
 
 ## Skills
-**Programming & Frameworks:** Python, R, Java, PyTorch, TensorFlow, Automation Python  
-**Databases & Warehousing:** PostgreSQL, MSSQL, Advanced SQL, Database Administration, Data Warehouses, Data Modeling  
+**Programming & Frameworks:** Python, R, Java, TypeScript, FastAPI 
+**Databases & Warehousing:** PostgreSQL, MSSQL, Database Administration, Data Warehouses, Data Modeling  
 **Data Engineering & Analytics:** Snowflake, Data Pipelines, Hadoop, Big Data, PySpark, Hive, NumPy, Pandas, SciPy, Scikit-learn, A/B Testing  
-**NLP & LLMs:** NLTK, BERT, Hugging Face, LangChain, LLMs  
+**NLP & LLMs:** NLTK, BERT, Hugging Face, LangChain, LLMs, Vector databases 
 **Cloud & DevOps:** AWS (S3, RDS, Redshift, EC2, Glue, DataBrew), Databricks, GitHub, CI/CD  
 **Web:** HTML, CSS, JavaScript, ReactJS  
-**Tools:** Cursor, Claude Code, VS Code, Jupyter Notebook, Agile
+**Tools:** Cursor, Claude Code, VS Code, Jupyter Notebook, Agile, Databricks
+
+
 
 ---
 
@@ -30,14 +32,14 @@ Experienced in **migrating on-prem databases to AWS RDS Multi-AZ**, improving av
 
 ## Projects
 ### ReadmitAI (Nov 2025) — Python | SQL | LightGBM | SHAP | Power BI | Streamlit
-🔗 Repo/Link: <PROJECT_LINK>
+🔗 Repo/Link: <[VIEW](https://github.com/sathyapalreddypeddakkagari/transparent-ai-diabetes-readmission)>
 - Feature engineered **101,766** diabetic inpatient records (ICD-9 grouping, patient-level splitting, imputation, scaling, SMOTE).
 - Trained Logistic Regression, Random Forest, XGBoost, and LightGBM; best model **LightGBM ROC-AUC = 0.852**.
 - Used **SHAP** to explain key clinical predictors (medication density, prior visits, procedure count, length of stay).
 - Built visual analytics (correlation heatmaps, ROC curves, SHAP plots) to support interpretability and decision-making.
 
 ### DocIE (Aug 2025) — Python | spaCy | ELECTRA | BERT | LLaMA-3.3 (Groq API) | Streamlit
-🔗 Repo/Link: <PROJECT_LINK>
+🔗 Repo/Link: <[VIEW](https://github.com/sathyapalreddypeddakkagari/Document-level-Information-Extraction)>
 - Built a modular document intelligence pipeline using fine-tuned **spaCy + ELECTRA (NER) + BERT (Relation Extraction)**.
 - Integrated **LLaMA-3.3 via Groq API** with few-shot prompting for cross-section and long-range relation detection.
 - Added extractive summarization + **RoBERTa (SQuAD2.0)** QA for semantic search and interactive querying.
