@@ -49,13 +49,7 @@ graduating:  May 2026
 contact:     sathyapalpeddakkagari@gmail.com
 ```
 
-I'm an **AI Data Engineer** who builds production-grade data systems that ship intelligence — not just dashboards. I design end-to-end pipelines on **AWS** and **Databricks**, then layer **LLMs, RAG, and ML models** on top so data actually drives decisions.
-
-**Proven impact at scale**
-- ⚡ Reduced API latency by **40%** and supported a **200% increase** in query throughput at Virtusa
-- 🏥 Engineered features from **101,766** clinical records on Databricks → LightGBM model at **0.852 ROC-AUC**
-- 📄 Built an FDA regulatory AI platform (OCR + RAG + python-docx) at Precise Software Solutions
-- 🎓 Currently maintaining a **3.96 / 4.0 GPA** while shipping production projects
+**AI Data Engineer** building production-grade data systems on **AWS** and **Databricks** with **LLMs, RAG, and ML** — actively seeking **full-time AI Data Engineer roles** starting May 2026.
 
 ---
 
@@ -108,32 +102,6 @@ I'm an **AI Data Engineer** who builds production-grade data systems that ship i
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
-
-<table align="center" border="0">
-  <tr border="0">
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/sathyapalreddypeddakkagari">
-        <img src="https://github-readme-stats.vercel.app/api?username=sathyapalreddypeddakkagari&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A78BFA&text_color=B2B1CC&ring_color=22D3EE" alt="github stats" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/sathyapalreddypeddakkagari">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathyapalreddypeddakkagari&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=22D3EE&fire=A78BFA&currStreakLabel=6366F1&sideLabels=B2B1CC&dates=6B6B85" alt="streak" />
-      </a>
-    </td>
-  </tr>
-  <tr border="0">
-    <td colspan="2" align="center">
-      <a href="https://github.com/sathyapalreddypeddakkagari">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyapalreddypeddakkagari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=B2B1CC&langs_count=10" alt="top languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
@@ -163,15 +131,11 @@ I'm an **AI Data Engineer** who builds production-grade data systems that ship i
     <td width="50%" valign="top">
       <h3 align="center">🏥 Smart Inspections</h3>
       <p align="center">
-        <em>FDA Form 483 AI Drafting Platform — Capstone @ Precise Software Solutions</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/RAG-FAISS-violet?style=flat-square" />
-        <img src="https://img.shields.io/badge/OCR-Tesseract-emerald?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLM-Google%20Gemini-orange?style=flat-square" />
-      </p>
-      <p>
-        End-to-end FDA regulatory AI platform on AWS. OCR (PyMuPDF + Tesseract) for handwritten/typed inspection notes, LangChain + Gemini for draft generation with 21 CFR citations, RAG over FDA guidance PDFs via FAISS, python-docx to produce official-format outputs. Wired into GitHub Actions CI/CD on Terraform-provisioned infra.
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/eshwaranish-varma/Smart-inspections">
@@ -185,15 +149,11 @@ I'm an **AI Data Engineer** who builds production-grade data systems that ship i
     <td width="50%" valign="top">
       <h3 align="center">🩺 ReadmitAI</h3>
       <p align="center">
-        <em>Hospital Readmission Risk on Spark — Clinical ML</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ROC--AUC-0.852-22D3EE?style=flat-square" />
-        <img src="https://img.shields.io/badge/Records-101K-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/SHAP-Explainability-emerald?style=flat-square" />
-      </p>
-      <p>
-        Processed 101,766 diabetic inpatient records on Databricks + AWS EMR with PySpark (ICD-9 grouping, patient-level splitting, SMOTE balancing). Trained LR / RF / XGBoost / LightGBM; deployed winning LightGBM model via CI/CD to AWS Lambda for real-time risk stratification. SHAP surfaces top clinical predictors.
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/LightGBM-2EA44F?style=flat-square&logo=leaflet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/sathyapalreddypeddakkagari/transparent-ai-diabetes-readmission">
@@ -207,18 +167,14 @@ I'm an **AI Data Engineer** who builds production-grade data systems that ship i
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">📄 DocIE — Document-Level Information Extraction</h3>
+      <h3 align="center">📄 DocIE</h3>
       <p align="center">
-        <em>Long-Document NLP with spaCy + ELECTRA + BERT + LLaMA-3.3</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NER-spaCy%20%2B%20ELECTRA-amber?style=flat-square" />
-        <img src="https://img.shields.io/badge/Relation%20Extraction-BERT-violet?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLM-LLaMA%203.3%20(Groq)-cyan?style=flat-square" />
-        <img src="https://img.shields.io/badge/QA-RoBERTa%20SQuAD%202.0-emerald?style=flat-square" />
-      </p>
-      <p align="center" width="70%">
-        Modular document-intelligence pipeline combining fine-tuned spaCy, ELECTRA (NER), and BERT (Relation Extraction) for structured information extraction from long documents. Integrated LLaMA-3.3 via Groq API with few-shot prompting for cross-section entity linking; RoBERTa-SQuAD2.0 powers semantic search. Interactive Streamlit UI for real-time ingestion.
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+        <img src="https://img.shields.io/badge/ELECTRA-FFA500?style=flat-square&logo=googletranslate&logoColor=white" />
+        <img src="https://img.shields.io/badge/BERT-FFA500?style=flat-square&logo=googletranslate&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLaMA%203.3-0668E1?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/sathyapalreddypeddakkagari/Document-level-Information-Extraction">
@@ -231,43 +187,6 @@ I'm an **AI Data Engineer** who builds production-grade data systems that ship i
     </td>
   </tr>
 </table>
-
----
-
-## 💼 &nbsp;Experience
-
-**AI Operations Analyst — Capstone @ [Precise Software Solutions, Inc.](https://github.com/eshwaranish-varma/Smart-inspections)** &nbsp;`Jan 2026 — Present`
-- End-to-end FDA Form 483 AI drafting platform on AWS — S3 storage, Terraform-provisioned infra
-- OCR pipeline (PyMuPDF + Tesseract) + LangChain/Gemini with 21 CFR citations
-- RAG over FDA guidance PDFs (FAISS) + python-docx generation in official format
-
-**Data Engineer Intern — Virtusa** &nbsp;`Jun 2023 — Oct 2023`
-- Scaled real-time pipelines with Scala + AWS Lambda + Spark + Kafka → **200% throughput ↑** on SQL Server
-- Migrated on-prem databases to AWS RDS Multi-AZ; statistical performance tuning
-- Indexing + query restructuring cut API latency by **40%**; monitored via AWS CloudWatch
-- Automated infra with Step Functions + EMR + Terraform; A/B-experiment frameworks for data validation
-
----
-
-## 🎓 &nbsp;Education & Certifications
-
-**M.S. Data Analytics Engineering** — George Mason University &nbsp;`Aug 2024 — May 2026`
-GPA: **3.96 / 4.0** · Fairfax, Virginia
-*Coursework: Machine Learning · Statistical Modeling · NLP · LLMs · Metadata Analytics · Risk & Predictive Analytics*
-
-**B.Tech Computer Engineering** — Institute of Aeronautical Engineering &nbsp;`Aug 2019 — May 2023`
-GPA: **3.78 / 4.0** · Hyderabad, India
-
-[![Oracle PL/SQL Certified Professional](https://img.shields.io/badge/Oracle-PL%2FSQL%20Developer%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6DBB560A74E97904C55C670D7E60CD1CB0B75F163A10D1CDD9F6FB0953D2AB91)
-[![Oracle SQL Certified Associate](https://img.shields.io/badge/Oracle-Database%20SQL%20Certified%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5B288A6EEB56D089CC0C18BB39BA54F6B53CAA238AA78B72CD4F194122C6F690)
-
----
-
-## 📚 &nbsp;Publication
-
-[![IRJET](https://img.shields.io/badge/IRJET-Volume%2010%20%C2%B7%20Issue%205%20%C2%B7%20May%202023-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.irjet.net/archives/V10/i5/IRJET-V10I527.pdf)
-
-International Research Journal of Engineering and Technology — peer-reviewed publication from undergraduate research at Institute of Aeronautical Engineering.
 
 ---
 
